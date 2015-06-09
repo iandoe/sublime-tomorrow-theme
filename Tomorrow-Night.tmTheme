@@ -271,6 +271,12 @@
 		    <string>#967EFB</string>
 		  </dict>
 		</dict>
+		<dict>
+			<key>activeGuide</key>
+			<string>#f0c674</string>
+			<key>stackGuide</key>
+			<string>#635f2d</string>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
