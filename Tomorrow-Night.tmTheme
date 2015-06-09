@@ -23,6 +23,11 @@
 				<string>#282A2E</string>
 				<key>selection</key>
 				<string>#373B41</string>
+
+				<key>activeGuide</key>
+				<string>#f0c674</string>
+				<key>stackGuide</key>
+				<string>#635f2d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -270,12 +275,6 @@
 		    <key>foreground</key>
 		    <string>#967EFB</string>
 		  </dict>
-		</dict>
-		<dict>
-			<key>activeGuide</key>
-			<string>#f0c674</string>
-			<key>stackGuide</key>
-			<string>#635f2d</string>
 		</dict>
 	</array>
 	<key>uuid</key>
